@@ -1,11 +1,3 @@
-<!--
-/*
- * Copyright (c) 2018, salesforce.com, inc.
- * All rights reserved.
- * SPDX-License-Identifier: BSD-3-Clause
- * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
- */
--->
 <aura:component controller="HomeChildKanbanCls" implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes" access="global" >
     <aura:attribute name="HeaderTitle" type="string" access='global'/>
     <aura:attribute name="objName" type="string"/>
@@ -83,7 +75,7 @@
             <div class="cardClass" style="position:relative;">
                 <div class="kanbanContainerDiv">
                     <aura:iteration items="{!v.kwrap.pickVals}" var="pv">
-                        <c:HomeChildKanbanCol fldList="{!v.record.fields.kanbanDev__Fields_To_Show__c.value}" kanbanHeight="{!v.kanbanHeight}" kanbanField="{!v.record.fields.kanbanDev__Group_By__c.value}" pickvalue="{!pv}" pickvalueLength="{!v.kwrap.pickVals.length}" recsMap="{!v.kwrap.records}" summaryMap="{!v.kwrap.rollupData}" rsFld="{!v.kwrap.sFldType}" fieldEditable="{!v.kwrap.isEditable}" objDeletable="{!v.kwrap.isDeletable}" fieldTypeMap="{!v.kwrap.fieldTypeMap}"/>
+                        <c:HomeChildKanbanCol fldList="{!v.record.fields.Fields_To_Show__c.value}" kanbanHeight="{!v.kanbanHeight}" kanbanField="{!v.record.fields.Group_By__c.value}" pickvalue="{!pv}" pickvalueLength="{!v.kwrap.pickVals.length}" recsMap="{!v.kwrap.records}" summaryMap="{!v.kwrap.rollupData}" rsFld="{!v.kwrap.sFldType}" fieldEditable="{!v.kwrap.isEditable}" objDeletable="{!v.kwrap.isDeletable}" fieldTypeMap="{!v.kwrap.fieldTypeMap}"/>
                     </aura:iteration>
                 </div>
                 <lightning:spinner variant="brand" size="large" aura:id="spinner" class="slds-hide"/>

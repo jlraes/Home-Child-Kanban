@@ -1,0 +1,2016 @@
+[
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541078682104,
+            "changeTime": 1541078682104,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541078682104,
+            "changeTime": 1541078682104,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541088964371,
+            "changeTime": 1541088964371,
+            "contentHash": "19e2f224c8dd47b467d1e85e6efc947a0a0fed9c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094009,
+            "changeTime": 1541079611891,
+            "contentHash": "3a807002b202fe584f4b33f011c1ff25a0d70d8e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\applications\\Kanban_Configuration.app-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\applications\\Kanban_Configuration.app-meta.xml",
+            "isDirectory": false,
+            "size": 637,
+            "modifiedTime": 1541086094010,
+            "changeTime": 1541086094010,
+            "contentHash": "f620d60de13b33795330cc9f7ba9f2a7c9320924",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094205,
+            "changeTime": 1541079612116,
+            "contentHash": "353856606ee99fee5e389fe1a4e29174c2150a0f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094156,
+            "changeTime": 1541079612069,
+            "contentHash": "f111be8ce450bf34fb1b5e802026a0b6bb93f8ea",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event\\custom_event.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event\\custom_event.evt",
+            "isDirectory": false,
+            "size": 297,
+            "modifiedTime": 1541086094156,
+            "changeTime": 1541079612069,
+            "contentHash": "e7253fdeeb92518aa3457286fd00aa5e8d41513a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event\\custom_event.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_event\\custom_event.evt-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1541086094155,
+            "changeTime": 1541079612068,
+            "contentHash": "b437a4191cff43abdf3bde717d36aff40551ab65",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094160,
+            "changeTime": 1541079612072,
+            "contentHash": "077d5dc3d82dbf95c9db37526a2f8f80d98dd872",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent\\custom_evt_notifyParent.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent\\custom_evt_notifyParent.evt",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1541086094160,
+            "changeTime": 1541079612072,
+            "contentHash": "6d4f23d98d55ec8fcf73d8458159b2230b3556d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent\\custom_evt_notifyParent.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_evt_notifyParent\\custom_evt_notifyParent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1541086094159,
+            "changeTime": 1541079612071,
+            "contentHash": "b437a4191cff43abdf3bde717d36aff40551ab65",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094173,
+            "changeTime": 1541079612080,
+            "contentHash": "abf685f4095095a32bbcfd1b84ba8beb6b84bb0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.cmp",
+            "isDirectory": false,
+            "size": 9278,
+            "modifiedTime": 1541086094169,
+            "changeTime": 1541079612075,
+            "contentHash": "acdf477e972521f4fbd5e7b2ee5d605482ef3f74",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094162,
+            "changeTime": 1541079612074,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickList.css",
+            "isDirectory": false,
+            "size": 2061,
+            "modifiedTime": 1541086094170,
+            "changeTime": 1541079612077,
+            "contentHash": "5f53873e6b661a469bf6c114652be4febfd098c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListController.js",
+            "isDirectory": false,
+            "size": 5059,
+            "modifiedTime": 1541086094171,
+            "changeTime": 1541079612078,
+            "contentHash": "d788a04d6c13c5597e129211753cdda3cca05b62",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListHelper.js",
+            "isDirectory": false,
+            "size": 14372,
+            "modifiedTime": 1541086094173,
+            "changeTime": 1541079612079,
+            "contentHash": "95bb92e9f85e06ce1b41203c64d49fed1f47d3b5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListRenderer.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_multiPickList\\custom_multiPickListRenderer.js",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1541086094174,
+            "changeTime": 1541079612081,
+            "contentHash": "c8c5d6d667eefd5535fc52443a823266c9caf69f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094180,
+            "changeTime": 1541079612089,
+            "contentHash": "9d9a794fe68cab2c3112a60a0f96913f6b799064",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.cmp",
+            "isDirectory": false,
+            "size": 2855,
+            "modifiedTime": 1541086094177,
+            "changeTime": 1541079612085,
+            "contentHash": "3e58ffcb7fed8e3251bbe6103614c363e7cb58b2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094176,
+            "changeTime": 1541079612083,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_option.css",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1541086094178,
+            "changeTime": 1541079612087,
+            "contentHash": "cd56fca308d63a3736b8640108429e77696fddf1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_optionController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_optionController.js",
+            "isDirectory": false,
+            "size": 2047,
+            "modifiedTime": 1541086094179,
+            "changeTime": 1541079612088,
+            "contentHash": "2f9178dcc2c6a1387584f1c568c0f210d429cfb0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_optionHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_option\\custom_optionHelper.js",
+            "isDirectory": false,
+            "size": 736,
+            "modifiedTime": 1541086094180,
+            "changeTime": 1541079612089,
+            "contentHash": "74e874e88e54431bf6a60d151914f0378de8befd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094185,
+            "changeTime": 1541079612097,
+            "contentHash": "674738ae0e34a4732992a0a2edec02533298d94a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroup.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroup.cmp",
+            "isDirectory": false,
+            "size": 1051,
+            "modifiedTime": 1541086094184,
+            "changeTime": 1541079612094,
+            "contentHash": "db8dea8861c5818d9ac80944b48168f15c85f39d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroup.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroup.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094182,
+            "changeTime": 1541079612092,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroupController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroupController.js",
+            "isDirectory": false,
+            "size": 587,
+            "modifiedTime": 1541086094185,
+            "changeTime": 1541079612095,
+            "contentHash": "3bbb1db9046a0b08249fef9979123a33f9b28fe8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroupHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_optionGroup\\custom_optionGroupHelper.js",
+            "isDirectory": false,
+            "size": 709,
+            "modifiedTime": 1541086094186,
+            "changeTime": 1541079612098,
+            "contentHash": "ec2f178aa0a68dd6f869982ffd0c9a14007ff24e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094192,
+            "changeTime": 1541079612103,
+            "contentHash": "a11e9497ebb536a5850102de552524d4e7244fc6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.cmp",
+            "isDirectory": false,
+            "size": 6922,
+            "modifiedTime": 1541086094189,
+            "changeTime": 1541079612101,
+            "contentHash": "665358af3c36e25a14ed3e8f6f5b4de8cee15ebc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094188,
+            "changeTime": 1541079612099,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pill.css",
+            "isDirectory": false,
+            "size": 1922,
+            "modifiedTime": 1541086094190,
+            "changeTime": 1541079612102,
+            "contentHash": "b765abfedbc52cabc9dc3cd97ba388dd9d63d927",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pillController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pillController.js",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1541086094191,
+            "changeTime": 1541079612103,
+            "contentHash": "763f972c00500f67a45c1ce4489fdd724b522fee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pillHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_pill\\custom_pillHelper.js",
+            "isDirectory": false,
+            "size": 523,
+            "modifiedTime": 1541086094192,
+            "changeTime": 1541079612104,
+            "contentHash": "625c1d28c118d2b08a7f8521ea39bc5e5735725a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094200,
+            "changeTime": 1541079612111,
+            "contentHash": "91f63b2eaed189498f2b705426ab42c661e59e90",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.cmp",
+            "isDirectory": false,
+            "size": 9056,
+            "modifiedTime": 1541086094196,
+            "changeTime": 1541079612107,
+            "contentHash": "b45730e1aebad084b4faadcbecc5566d3598b93b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094194,
+            "changeTime": 1541079612106,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_select.css",
+            "isDirectory": false,
+            "size": 3947,
+            "modifiedTime": 1541086094197,
+            "changeTime": 1541079612108,
+            "contentHash": "179b987034b96a81576b5c25d275cb20332d6439",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectController.js",
+            "isDirectory": false,
+            "size": 3719,
+            "modifiedTime": 1541086094198,
+            "changeTime": 1541079612109,
+            "contentHash": "a512a195f4d58b1cdbe1fdd76cc87328ce1c6bac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectHelper.js",
+            "isDirectory": false,
+            "size": 6612,
+            "modifiedTime": 1541086094199,
+            "changeTime": 1541079612110,
+            "contentHash": "ddb5b02b29f3ddf65cdbaca078c68e673a82ef13",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectRenderer.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\custom_select\\custom_selectRenderer.js",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1541086094201,
+            "changeTime": 1541079612112,
+            "contentHash": "e92132ee0b399a4000e520ce6dff896a8aa69d0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094203,
+            "changeTime": 1541079612115,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+            "isDirectory": false,
+            "size": 814,
+            "modifiedTime": 1541086094204,
+            "changeTime": 1541079612115,
+            "contentHash": "35f1846d5bf6361bf3b22e787049af77d6fa9336",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094203,
+            "changeTime": 1541079612114,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094118,
+            "changeTime": 1541079612027,
+            "contentHash": "dd18c0d6959a828b2d1bd86da56d566f63d9e813",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp",
+            "isDirectory": false,
+            "size": 6117,
+            "modifiedTime": 1541086094112,
+            "changeTime": 1541086094112,
+            "contentHash": "5ec198d0ed13db70643c1f2f6f9e39c0f24143b3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094111,
+            "changeTime": 1541079612020,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.css",
+            "isDirectory": false,
+            "size": 823,
+            "modifiedTime": 1541086094113,
+            "changeTime": 1541086094113,
+            "contentHash": "7c3211aaba6c1dc8ea9070c39e6b907f2937acae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.design",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.design",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1541086094114,
+            "changeTime": 1541086094114,
+            "contentHash": "d4259183f535a62d92f1c77694b272834d69dba1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.svg",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.svg",
+            "isDirectory": false,
+            "size": 613,
+            "modifiedTime": 1541086094116,
+            "changeTime": 1541086094116,
+            "contentHash": "111e5895f41acdd7b90934e7b36c7efbddd429aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanController.js",
+            "isDirectory": false,
+            "size": 11378,
+            "modifiedTime": 1541252660076,
+            "changeTime": 1541252660076,
+            "contentHash": "9b44711f95f04389b09bf23f215be6b551e96eab",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanHelper.js",
+            "isDirectory": false,
+            "size": 1040,
+            "modifiedTime": 1541086094118,
+            "changeTime": 1541079612028,
+            "contentHash": "62c924b0b91e25b6bb3421394f06a157178b3538",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094127,
+            "changeTime": 1541079612037,
+            "contentHash": "cb200549c89ef898cafe0abe2f7289ece1bc56f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.auradoc",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.auradoc",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1541086094121,
+            "changeTime": 1541086094121,
+            "contentHash": "70f766843d35657f74bba816b67514e943f88f0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.cmp",
+            "isDirectory": false,
+            "size": 2552,
+            "modifiedTime": 1541086094122,
+            "changeTime": 1541086094122,
+            "contentHash": "4fc2128de0c6e53e4baf35189726becbb8be3f1d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094120,
+            "changeTime": 1541079612030,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanCol.css",
+            "isDirectory": false,
+            "size": 2582,
+            "modifiedTime": 1541086094123,
+            "changeTime": 1541079612034,
+            "contentHash": "4ee349f8d0b36b4c210215a423c00f49802b9e6d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColController.js",
+            "isDirectory": false,
+            "size": 1760,
+            "modifiedTime": 1541086094125,
+            "changeTime": 1541079612035,
+            "contentHash": "c52edcedb45d06297b459f72a7fd76b7263aedec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColHelper.js",
+            "isDirectory": false,
+            "size": 1387,
+            "modifiedTime": 1541086094126,
+            "changeTime": 1541079612036,
+            "contentHash": "7fd9385b7297c5ab38dba6947dfe29296ecd366f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColRenderer.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCol\\HomeChildKanbanColRenderer.js",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1541086094127,
+            "changeTime": 1541079612037,
+            "contentHash": "7f53e4c1b62bebccfba6920b8e06438a799911a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094134,
+            "changeTime": 1541079612043,
+            "contentHash": "23ad573c2626872bcfafa476feb00a4b07b47d99",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.cmp",
+            "isDirectory": false,
+            "size": 7419,
+            "modifiedTime": 1541086094131,
+            "changeTime": 1541086094131,
+            "contentHash": "106f6d5aa04966b24c09d4a33ac1a85d75636a0c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094129,
+            "changeTime": 1541079612039,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfig.css",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1541086094132,
+            "changeTime": 1541079612041,
+            "contentHash": "59c009b313f5fb1654531a4929a4480f851c00d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfigController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfigController.js",
+            "isDirectory": false,
+            "size": 3955,
+            "modifiedTime": 1541086094133,
+            "changeTime": 1541079612042,
+            "contentHash": "3dc702a28688118d62f84cbf6c8a148ddc7b8250",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfigHelper.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanConfig\\HomeChildKanbanConfigHelper.js",
+            "isDirectory": false,
+            "size": 6206,
+            "modifiedTime": 1541086094135,
+            "changeTime": 1541086094135,
+            "contentHash": "b8d1d796876aeea59daf961513aa5f2c72d3e495",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094142,
+            "changeTime": 1541079612056,
+            "contentHash": "d1d55b70a4091b9bfe1c516b7efc61b58f172c7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.auradoc",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.auradoc",
+            "isDirectory": false,
+            "size": 216,
+            "modifiedTime": 1541086094137,
+            "changeTime": 1541086094137,
+            "contentHash": "70f766843d35657f74bba816b67514e943f88f0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.cmp",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.cmp",
+            "isDirectory": false,
+            "size": 3226,
+            "modifiedTime": 1541086094139,
+            "changeTime": 1541086094139,
+            "contentHash": "f1eff61ed0c3ff3028be7c8bf2bca29dcaff8f32",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.cmp-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094136,
+            "changeTime": 1541079612047,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.css",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrd.css",
+            "isDirectory": false,
+            "size": 680,
+            "modifiedTime": 1541086094140,
+            "changeTime": 1541079612052,
+            "contentHash": "4aa365086a03c67d51ef77d25a6613e7c7445984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrdController.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrdController.js",
+            "isDirectory": false,
+            "size": 3434,
+            "modifiedTime": 1541086094141,
+            "changeTime": 1541079612055,
+            "contentHash": "93fccc4fcf0adf85f874711cc69cf6fe4b5d856a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrdRenderer.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanCrd\\HomeChildKanbanCrdRenderer.js",
+            "isDirectory": false,
+            "size": 642,
+            "modifiedTime": 1541086094143,
+            "changeTime": 1541079612056,
+            "contentHash": "601752c68d25f249370540c8565b433bfa20d375",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094146,
+            "changeTime": 1541079612059,
+            "contentHash": "1539a30965509daedfa7794a120892dcbed39db6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt\\HomeChildKanbanDeleteEvt.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt\\HomeChildKanbanDeleteEvt.evt",
+            "isDirectory": false,
+            "size": 137,
+            "modifiedTime": 1541086094146,
+            "changeTime": 1541086094146,
+            "contentHash": "3ab61dac2d50158952fa8eed0d34eb5be6e646dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt\\HomeChildKanbanDeleteEvt.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanDeleteEvt\\HomeChildKanbanDeleteEvt.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094145,
+            "changeTime": 1541079612058,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094149,
+            "changeTime": 1541079612062,
+            "contentHash": "eff1e1060e3b88914158b4bcb95dac7a1e9f0b87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt\\HomeChildKanbanEvt.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt\\HomeChildKanbanEvt.evt",
+            "isDirectory": false,
+            "size": 137,
+            "modifiedTime": 1541086094150,
+            "changeTime": 1541086094150,
+            "contentHash": "72e27d67ab67d09fe66ed20fd941669574094437",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt\\HomeChildKanbanEvt.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanbanEvt\\HomeChildKanbanEvt.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094149,
+            "changeTime": 1541079612062,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094152,
+            "changeTime": 1541079612066,
+            "contentHash": "10afd6868d37249ce4c598ca0af89ecd16c18f08",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations\\RemoveValidations.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations\\RemoveValidations.evt",
+            "isDirectory": false,
+            "size": 62,
+            "modifiedTime": 1541086094153,
+            "changeTime": 1541086094153,
+            "contentHash": "e98ff5584660855c440970a7f28e3780d9bc6fc3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations\\RemoveValidations.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\RemoveValidations\\RemoveValidations.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094152,
+            "changeTime": 1541079612065,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094206,
+            "changeTime": 1541079612118,
+            "contentHash": "c5c641cf6338dc0471017d6271228e206a1d279b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected\\sobjectselected.evt",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected\\sobjectselected.evt",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1541086094207,
+            "changeTime": 1541086094207,
+            "contentHash": "1a766fd64643b3473167cc05168677aa310f2942",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected\\sobjectselected.evt-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\sobjectselected\\sobjectselected.evt-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1541086094206,
+            "changeTime": 1541079612117,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541093233749,
+            "changeTime": 1541093233749,
+            "contentHash": "548f9e7fa71070d442b508185da8880343836c2c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls.cls",
+            "isDirectory": false,
+            "size": 15325,
+            "modifiedTime": 1541252179207,
+            "changeTime": 1541252179207,
+            "contentHash": "9cffa8eaf1dceadf0289433ca151f18955aed92c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094022,
+            "changeTime": 1541079611912,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls_Test.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls_Test.cls",
+            "isDirectory": false,
+            "size": 3574,
+            "modifiedTime": 1541086094037,
+            "changeTime": 1541079611922,
+            "contentHash": "2a99b03a0e28c3ec4f20eb46b9775225f77b0475",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls_Test.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls_Test.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094035,
+            "changeTime": 1541079611920,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCObjUtil.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCObjUtil.cls",
+            "isDirectory": false,
+            "size": 668,
+            "modifiedTime": 1541086094018,
+            "changeTime": 1541079611908,
+            "contentHash": "4afd972cfc2cffaeaa4e7f5b92072c9532c039fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCObjUtil.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCObjUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094015,
+            "changeTime": 1541079611904,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanObjUtil.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanObjUtil.cls",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1541086094042,
+            "changeTime": 1541079611930,
+            "contentHash": "21598e68231cd20583f0972ac86ccfec48991b3e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanObjUtil.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanObjUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094040,
+            "changeTime": 1541079611926,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanUtil.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanUtil.cls",
+            "isDirectory": false,
+            "size": 5985,
+            "modifiedTime": 1541086094046,
+            "changeTime": 1541079611936,
+            "contentHash": "2909eb46b470ededa85eacf3b30fcb883d82e38f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanUtil.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094044,
+            "changeTime": 1541079611934,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\KanbanConfigList.cls",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\KanbanConfigList.cls",
+            "isDirectory": false,
+            "size": 1127,
+            "modifiedTime": 1541086094052,
+            "changeTime": 1541079611941,
+            "contentHash": "771a9f2efa582eccf05d74c8bf1215886fd92b33",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\KanbanConfigList.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\KanbanConfigList.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541086094049,
+            "changeTime": 1541079611939,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541254222274,
+            "changeTime": 1541254222274,
+            "contentHash": "a5669d606cb03483326f702e5a5e600d8198779d"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Kanban_Configuration_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Kanban_Configuration_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1541086094056,
+            "changeTime": 1541086094056,
+            "contentHash": "cc0acf251f0837780963ed4640acd3637fbb826d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094061,
+            "changeTime": 1541079611953,
+            "contentHash": "ecbce79a671aebe214adc9028178af838f7d4cd7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\layouts\\Kanban_Configuration__c-Kanban Configuration Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\layouts\\Kanban_Configuration__c-Kanban Configuration Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3648,
+            "modifiedTime": 1541254222269,
+            "changeTime": 1541254222269,
+            "contentHash": "9cd0ee36b330c2005488a830b78fc0b2e66ca543"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541254222245,
+            "changeTime": 1541254222245,
+            "contentHash": "8bf8c0cdfee23dddb210af68ddaba9fcedefe382"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094088,
+            "changeTime": 1541079611990,
+            "contentHash": "d1ecf04e7450ec6f0f32eeac71c702f14cbc885c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541252537371,
+            "changeTime": 1541252537371,
+            "contentHash": "f4757924af0cf5a53f7f8e360b235e1eb51843e5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Child_Object__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Child_Object__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1541086094079,
+            "changeTime": 1541079611979,
+            "contentHash": "8d75e580d6fed9078aa5b0af0da6dc4e56b288f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Exclude_From_Group_By__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Exclude_From_Group_By__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1541086094080,
+            "changeTime": 1541079611980,
+            "contentHash": "481dec41c521643a1e6af45a28a1fd304b44bfb6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Fields_To_Show__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Fields_To_Show__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1541086094081,
+            "changeTime": 1541079611982,
+            "contentHash": "8eeab5d055fd44fd03082f13ab876186a587e06a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\For_Object__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\For_Object__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 401,
+            "modifiedTime": 1541086094082,
+            "changeTime": 1541079611983,
+            "contentHash": "31f888f7bd1d629e7a4d78f85011a0065339c4be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Group_By__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Group_By__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1541086094083,
+            "changeTime": 1541079611984,
+            "contentHash": "62bf3a8986c857e3663163f76564856b8f11498c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Kanban_For__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Kanban_For__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 838,
+            "modifiedTime": 1541086094084,
+            "changeTime": 1541079611986,
+            "contentHash": "ee06c95e43ef28cd014ed3008b3cfcde22a0e86c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Name_Field__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Name_Field__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1541086094086,
+            "changeTime": 1541079611987,
+            "contentHash": "933909a7e5deb8540eff1c25a9891123a6b34722",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Relation_Field__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Relation_Field__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1541086094087,
+            "changeTime": 1541079611988,
+            "contentHash": "5da50c3db29bd169029a154c958b3af20a8451c9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Summarize_By__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Summarize_By__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1541086094088,
+            "changeTime": 1541079611989,
+            "contentHash": "6e32e29b00a04a1ad42580c180d6a16665c0bc21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\Kanban_Configuration__c.object-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\Kanban_Configuration__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2576,
+            "modifiedTime": 1541086094077,
+            "changeTime": 1541079611976,
+            "contentHash": "db6d5ae4f7c478d598debb92cb178916156a3a11",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\listViews",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094089,
+            "changeTime": 1541079611990,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1541086094089,
+            "changeTime": 1541079611991,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094104,
+            "changeTime": 1541079612013,
+            "contentHash": "2c41a41b082da409d285bc495e120ac5ff74d8bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources\\HomeChildKanbanjs.js",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources\\HomeChildKanbanjs.js",
+            "isDirectory": false,
+            "size": 3565,
+            "modifiedTime": 1541086094105,
+            "changeTime": 1541079612014,
+            "contentHash": "72c9db2f8cb1008f246a8f9c30d1e3d1d1781d07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources\\HomeChildKanbanjs.resource-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\staticresources\\HomeChildKanbanjs.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1541086094102,
+            "changeTime": 1541079612010,
+            "contentHash": "c5ae89a08d0469ad1b16ff5ef26d4cf4b7ffe209",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541086094107,
+            "changeTime": 1541079612017,
+            "contentHash": "313223a434b766bf763c881522fff6e1f628f903",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\tabs\\Kanban_Configuration__c.tab-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\tabs\\Kanban_Configuration__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1541086094108,
+            "changeTime": 1541086094108,
+            "contentHash": "679ba1a1946ff4dd756640af97489d28021a69d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541078700134,
+            "changeTime": 1541078700134,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\permissionsets\\Kanban.permissionset-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\permissionsets\\Kanban.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 2275,
+            "modifiedTime": 1541088964375,
+            "changeTime": 1541088964375,
+            "contentHash": "3a4022016fa08945a78ace86c5604dc2ef00c07f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541088964374,
+            "changeTime": 1541088964374,
+            "contentHash": "298a706c9f31576120aa2d38131a1f47921ed8af",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactoryService.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactoryService.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541093233737,
+            "changeTime": 1541093233737,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactoryService.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactoryService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3282,
+            "modifiedTime": 1541254222282,
+            "changeTime": 1541254222282,
+            "contentHash": "0f36a9c0af93415e04336835d50c80b1d6f37a40"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\RandomUtility.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\RandomUtility.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541093233743,
+            "changeTime": 1541093233743,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\RandomUtility.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\RandomUtility.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4040,
+            "modifiedTime": 1541254222289,
+            "changeTime": 1541254222289,
+            "contentHash": "cdee7075057f2135f8eb877e2c28f6d13da4e13d"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactory.cls-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1541093233748,
+            "changeTime": 1541093233748,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactory.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\TestDataFactory.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 16677,
+            "modifiedTime": 1541254222297,
+            "changeTime": 1541254222297,
+            "contentHash": "6ce8102cd6c483dfd3098ce63474bd458e06b283"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Where_Clause__c.field-meta.xml",
+        {
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Kanban_Configuration__c\\fields\\Where_Clause__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1541252561775,
+            "changeTime": 1541252561775,
+            "contentHash": "8a607ef1bfeff28c6da39c24cdada1f6e493221b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2\\listViews\\ALLPB.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2\\listViews\\ALLPB.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 383,
+            "modifiedTime": 1541254222248,
+            "changeTime": 1541254222248,
+            "contentHash": "487c5f8b4bbafc4ee2117fd423d80bd34a1e9625"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2232,
+            "modifiedTime": 1541254222275,
+            "changeTime": 1541254222275,
+            "contentHash": "92be489a1af43bdbfee17a533408a021793b580c"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541254222247,
+            "changeTime": 1541254222247,
+            "contentHash": "69332d39fb1de00f3fe53f9220f03ae84d36081e"
+        }
+    ],
+    [
+        "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2",
+        {
+            "state": "u",
+            "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\objects\\Pricebook2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541254222245,
+            "changeTime": 1541254222245,
+            "contentHash": "1003ed7ace0a22575202c755ad5f988148ca2df5"
+        }
+    ]
+]

@@ -22,19 +22,19 @@
                 }), 400);
             }
             var recId = component.get('v.recordId');
-            var objName = recFlds.kanbanDev__Child_Object__c.value;
-            var objRelField = recFlds.kanbanDev__Relation_Field__c.value;
-            var objFields = recFlds.kanbanDev__Fields_To_Show__c.value;
-            var kanbanPicklistField = recFlds.kanbanDev__Group_By__c.value;
-            var ExcVal = recFlds.kanbanDev__Exclude_From_Group_By__c.value;
-            var KbObjNameField = recFlds.kanbanDev__Name_Field__c.value;
+            var objName = recFlds.Child_Object__c.value;
+            var objRelField = recFlds.Relation_Field__c.value;
+            var objFields = recFlds.Fields_To_Show__c.value;
+            var kanbanPicklistField = recFlds.Group_By__c.value;
+            var ExcVal = recFlds.Exclude_From_Group_By__c.value;
+            var KbObjNameField = recFlds.Name_Field__c.value;
             var ExcFVal = ExcVal ? ExcVal.split(';') : '';
             if(ExcFVal != ''){
                 for(var i=0; i<ExcFVal.length; i++){
                     ExcFVal[i] = ExcFVal[i].trim();
                 }
             }
-            var agrFld = recFlds.kanbanDev__Summarize_By__c.value;
+            var agrFld = recFlds.Summarize_By__c.value;
             var agrFldFval = agrFld ? agrFld : null;
             
             if(objName && objFields && kanbanPicklistField){
@@ -78,22 +78,22 @@
         var data = event.getParam('KanbanChildChange');
         if(data.from != data.to){
             //helper.spinnerHelper(component, true);
-            var objFields = recFlds.kanbanDev__Fields_To_Show__c.value.split(';');
+            var objFields = recFlds.Fields_To_Show__c.value.split(';');
             var recsMap = component.get('v.kwrap');
             var rec = recsMap.records[data.from][data.pos];
             var nameInToast;
             var simpleRecord = component.get('v.simpleRecord');
-            if(!$A.util.isUndefinedOrNull(simpleRecord.kanbanDev__Name_Field__c) && simpleRecord.kanbanDev__Name_Field__c != 'false'){
-                if($A.util.isUndefinedOrNull(rec[simpleRecord.kanbanDev__Name_Field__c])){
+            if(!$A.util.isUndefinedOrNull(simpleRecord.Name_Field__c) && simpleRecord.Name_Field__c != 'false'){
+                if($A.util.isUndefinedOrNull(rec[simpleRecord.Name_Field__c])){
                     nameInToast = component.get('v.kwrap').cObjName;
                 }else{
-                	nameInToast = rec[simpleRecord.kanbanDev__Name_Field__c];    
+                	nameInToast = rec[simpleRecord.Name_Field__c];    
                 }
             }else{
                 nameInToast = component.get('v.kwrap').cObjName;
             }
-            var kfld = recFlds.kanbanDev__Group_By__c.value;
-            var sfield = recFlds.kanbanDev__Summarize_By__c.value;
+            var kfld = recFlds.Group_By__c.value;
+            var sfield = recFlds.Summarize_By__c.value;
             
             if(rec[sfield] && !isNaN(rec[sfield])){
                 var smap = recsMap.rollupData;
@@ -170,7 +170,7 @@
         var rec = recsMap.records[data.from][data.pos];
         console.log(rec);
         var action = component.get('c.deleteRec');
-        var sfield = recFlds.kanbanDev__Summarize_By__c.value;
+        var sfield = recFlds.Summarize_By__c.value;
         action.setParams({
             'obj' : rec
         });
@@ -226,16 +226,16 @@
             var simpleRecord = component.get('v.simpleRecord');
             var createRecordEvent = $A.get("e.force:createRecord");
             createRecordEvent.setParams({
-                "entityApiName": simpleRecord.kanbanDev__For_Object__c
+                "entityApiName": simpleRecord.For_Object__c
             });
             createRecordEvent.fire();
         }else{
             var simpleRecord = component.get('v.simpleRecord');
             var createRecordEvent = $A.get("e.force:createRecord");
             var recObj = {};
-            recObj[simpleRecord.kanbanDev__Relation_Field__c] = recordId;
+            recObj[simpleRecord.Relation_Field__c] = recordId;
             createRecordEvent.setParams({
-                "entityApiName": simpleRecord.kanbanDev__Child_Object__c,
+                "entityApiName": simpleRecord.Child_Object__c,
                 "defaultFieldValues": recObj
             });
             createRecordEvent.fire();
@@ -247,7 +247,7 @@
             var simpleRecord = component.get('v.simpleRecord');
             var relatedListEvent = $A.get("e.force:navigateToRelatedList");
             relatedListEvent.setParams({
-                "relatedListId": simpleRecord.kanbanDev__Child_Object__c,
+                "relatedListId": simpleRecord.Child_Object__c,
                 "parentRecordId": recordId
             });
             relatedListEvent.fire();
