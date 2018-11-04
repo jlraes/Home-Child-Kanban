@@ -692,7 +692,7 @@
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1541086094118,
+            "modifiedTime": 1541362382738,
             "changeTime": 1541079612027,
             "contentHash": "dd18c0d6959a828b2d1bd86da56d566f63d9e813",
             "isMetadataFile": false,
@@ -704,15 +704,15 @@
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 6119,
             "modifiedTime": 1541255400375,
             "changeTime": 1541255400375,
-            "isWorkspace": false,
-            "contentHash": "838ee2821a490b12dc8905cb6104573780a027c5"
+            "contentHash": "838ee2821a490b12dc8905cb6104573780a027c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -735,13 +735,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.css",
             "isDirectory": false,
-            "size": 823,
-            "modifiedTime": 1541086094113,
-            "changeTime": 1541086094113,
-            "contentHash": "7c3211aaba6c1dc8ea9070c39e6b907f2937acae",
+            "size": 817,
+            "modifiedTime": 1541362382738,
+            "changeTime": 1541362382738,
+            "contentHash": "441314eb85bb736cbde900b9bbb2988847648398",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "state": "u"
         }
     ],
     [
@@ -749,13 +748,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.design",
             "isDirectory": false,
-            "size": 326,
-            "modifiedTime": 1541086094114,
-            "changeTime": 1541086094114,
-            "contentHash": "d4259183f535a62d92f1c77694b272834d69dba1",
+            "size": 324,
+            "modifiedTime": 1541362382732,
+            "changeTime": 1541362382732,
+            "contentHash": "3ac0c0da0baf875bb7eb3c85e9bd4d0eb93e1f45",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "state": "u"
         }
     ],
     [
@@ -763,13 +761,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanban.svg",
             "isDirectory": false,
-            "size": 613,
-            "modifiedTime": 1541086094116,
-            "changeTime": 1541086094116,
-            "contentHash": "111e5895f41acdd7b90934e7b36c7efbddd429aa",
+            "size": 611,
+            "modifiedTime": 1541362382734,
+            "changeTime": 1541362382734,
+            "contentHash": "a293a5fa8ee14c43acd0203bd31a6bb0da988033",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "state": "u"
         }
     ],
     [
@@ -777,13 +774,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanController.js",
             "isDirectory": false,
-            "size": 11378,
-            "modifiedTime": 1541252660076,
-            "changeTime": 1541252660076,
-            "contentHash": "9b44711f95f04389b09bf23f215be6b551e96eab",
+            "size": 11177,
+            "modifiedTime": 1541362382730,
+            "changeTime": 1541362382730,
+            "contentHash": "98abf099ed2ce77763a443f2007330a4a42e6fe3",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "state": "u"
         }
     ],
     [
@@ -791,14 +787,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\aura\\HomeChildKanban\\HomeChildKanbanHelper.js",
             "isDirectory": false,
-            "size": 1040,
-            "modifiedTime": 1541086094118,
-            "changeTime": 1541079612028,
-            "contentHash": "62c924b0b91e25b6bb3421394f06a157178b3538",
+            "size": 1038,
+            "modifiedTime": 1541362382736,
+            "changeTime": 1541362382736,
+            "contentHash": "489cc2e88018a265d0c21d975e62895d54665e97",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1292,7 +1286,7 @@
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1541254222296,
+            "modifiedTime": 1541362382754,
             "changeTime": 1541093233749,
             "contentHash": "548f9e7fa71070d442b508185da8880343836c2c",
             "isMetadataFile": false,
@@ -1304,13 +1298,12 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\classes\\HomeChildKanbanCls.cls",
             "isDirectory": false,
-            "size": 15325,
-            "modifiedTime": 1541252179207,
-            "changeTime": 1541252179207,
-            "contentHash": "9cffa8eaf1dceadf0289433ca151f18955aed92c",
+            "size": 15085,
+            "modifiedTime": 1541362382755,
+            "changeTime": 1541362382755,
+            "contentHash": "9c4b9fa83201188ec31e427aff625d9f155182f9",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "state": "u"
         }
     ],
     [
@@ -1526,9 +1519,9 @@
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\layouts\\Kanban_Configuration__c-Kanban Configuration Layout.layout-meta.xml",
             "isDirectory": false,
             "size": 3648,
-            "modifiedTime": 1541254222269,
-            "changeTime": 1541254222269,
-            "contentHash": "9cd0ee36b330c2005488a830b78fc0b2e66ca543",
+            "modifiedTime": 1541362382750,
+            "changeTime": 1541362382750,
+            "contentHash": "17427c498cdc61a054819663113b231fdc3efb47",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -1849,10 +1842,10 @@
         {
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\permissionsets\\Kanban.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 2275,
-            "modifiedTime": 1541088964375,
-            "changeTime": 1541088964375,
-            "contentHash": "3a4022016fa08945a78ace86c5604dc2ef00c07f",
+            "size": 2453,
+            "modifiedTime": 1541362382760,
+            "changeTime": 1541362382760,
+            "contentHash": "23f9b74e9b93c63d3d0e50abd60b31d56bfe1e7d",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -1977,14 +1970,14 @@
     [
         "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\DATA\\DEV\\SALESFORCE\\PROJECTS\\Home-Child-Kanban\\Home-Child-Kanban\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 2232,
-            "modifiedTime": 1541254222275,
-            "changeTime": 1541254222275,
-            "contentHash": "92be489a1af43bdbfee17a533408a021793b580c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 1611,
+            "modifiedTime": 1541365209176,
+            "changeTime": 1541365209176,
+            "contentHash": "603d702feeb8855ce96e4fe09783a0695c23298c"
         }
     ],
     [

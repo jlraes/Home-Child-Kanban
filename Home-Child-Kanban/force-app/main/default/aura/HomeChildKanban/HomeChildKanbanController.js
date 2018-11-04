@@ -1,4 +1,3 @@
-
 /*
  * Copyright (c) 2018, salesforce.com, inc.
  * All rights reserved.
@@ -39,6 +38,7 @@
             var agrFld = recFlds.Summarize_By__c.value;
             var agrFldFval = agrFld ? agrFld : null;
             
+            //console.log('whereClause: ' + whereClause);
             if(objName && objFields && kanbanPicklistField){
                 //alert(recId + objName + objRelField + objFields + kanbanPicklistField);
                 var action = component.get('c.getKanban');

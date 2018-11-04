@@ -45,6 +45,11 @@
         <field>Kanban_Configuration__c.Summarize_By__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Kanban_Configuration__c.Where_Clause__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Kanban</label>
     <objectPermissions>

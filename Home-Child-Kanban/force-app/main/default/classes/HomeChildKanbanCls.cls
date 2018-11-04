@@ -221,8 +221,8 @@ public with sharing class HomeChildKanbanCls {
                     if(ParentRecId != '' && ParentRecId != null && relField != '' && relField != null){
                         qry += ' and '+relField+'=\''+ParentRecId+'\'';
                     }
-                    
-                    //system.debug('genquery '+ qry);   
+                    //system.debug('whereClause: ' + whereClause);
+                    //system.debug('genquery: '+ qry);   
                     
                     for(sobject s: database.query(qry)){
                         recMaps.get(string.valueOf(s.get(kabnanField))).add(s);
