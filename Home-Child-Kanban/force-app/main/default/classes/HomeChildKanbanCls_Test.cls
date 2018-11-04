@@ -22,9 +22,10 @@ public class HomeChildKanbanCls_Test {
         lString.add('OwnerId');
         List<string> lStrings = new list<string>();
         lStrings.add('Closed Lost');
-        HomeChildKanbanUtil wrp = HomeChildKanbanCls.getKanban('opportunity', lString, 'stagename', string.valueOf(a.id), 'AccountId', lStrings, 'Amount', 'Name');
-        HomeChildKanbanCls.getKanban('opportunity', lString, 'stagename', string.valueOf(a.id), 'AccountId', lStrings, 'Name', 'Name');
-        HomeChildKanbanCls.getKanban('opportunity', lString, 'stagenam', string.valueOf(a.id), 'AccountId', null, null, 'Name');        
+        //HomeChildKanbanUtil wrp = HomeChildKanbanCls.getKanban('opportunity', lString, 'stagename', string.valueOf(a.id), 'AccountId', lStrings, 'Amount', 'Name');
+        HomeChildKanbanUtil wrp = HomeChildKanbanCls.getKanban('opportunity', lString, 'stagename', string.valueOf(a.id), 'AccountId', lStrings, 'Amount', 'Name','');
+        HomeChildKanbanCls.getKanban('opportunity', lString, 'stagename', string.valueOf(a.id), 'AccountId', lStrings, 'Name', 'Name','');
+        HomeChildKanbanCls.getKanban('opportunity', lString, 'stagenam', string.valueOf(a.id), 'AccountId', null, null, 'Name','');        
         HomeChildKanbanCls.getObjs();
         HomeChildKanbanCls.getObjChilds('Account');
         HomeChildKanbanCls.getObjFlds('Account');

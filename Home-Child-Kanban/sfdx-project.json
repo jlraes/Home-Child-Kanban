@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "44.0",
     "packageAliases": {
-        "KanbanCustom": "0Ho1C0000004C9DSAU"
+        "KanbanCustom": "0Ho1C0000004C9DSAU",
+        "KanbanCustom@0.1.0-1": "04t1C000000teM8QAI"
     }
 }
